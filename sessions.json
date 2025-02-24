@@ -1,0 +1,40 @@
+{
+  "1118776954787741696": [
+    {
+      "user": "hi",
+      "bot": "Hi there! Welcome to Sun Network!  How can I help you today? @user\n"
+    },
+    {
+      "user": "?",
+      "bot": "@user Hi there!  Welcome to Sun Network! How can I help you today?\n"
+    },
+    {
+      "user": "hi",
+      "bot": "Hi @user! Welcome to Sun Network! How can I help you today?\n"
+    },
+    {
+      "user": "why this Hi @user! is here?",
+      "bot": "@user That's a greeting pre-programmed into my responses to welcome new users to Sun Network.  I'm still under development, and my greetings might be refined in the future.\n"
+    },
+    {
+      "user": "hi",
+      "bot": "Hi @user! Welcome to Sun Network! How can I help you today?\n"
+    },
+    {
+      "user": "hi",
+      "bot": "Hi @user! Welcome to Sun Network! How can I help you today?\n"
+    },
+    {
+      "user": "hi",
+      "bot": "Hi! Welcome to Sun Network! How can I help you today?\n"
+    },
+    {
+      "user": "hi",
+      "bot": "Hi! Welcome to Sun Network! How can I help you today?\n"
+    },
+    {
+      "user": "who are you?",
+      "bot": "Hello! I'm Wiloy, the official AI assistant for Sun Network.  I'm here to help you with anything you need regarding our Minecraft server.\n"
+    }
+  ]
+}
