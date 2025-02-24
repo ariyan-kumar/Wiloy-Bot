@@ -19,7 +19,7 @@ Wiloy is a powerful and intelligent AI assistant for **Sun Network**, a Minecraf
 ### **1. Clone the Repository**
 
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/Wiloy-Bot.git
+git clone https://github.com/ariyan-kumar/Wiloy-Bot.git
 cd Wiloy-Bot
 ```
 
